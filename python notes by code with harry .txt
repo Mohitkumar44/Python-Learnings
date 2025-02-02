@@ -1,0 +1,40 @@
+1. alt + shift + down arrow               (copy)
+
+2. alt + click                            (multi cursor)
+
+3. print(''' multi lines.....
+   ..........................             (To print Same Paragraph)
+   .......................''')    
+
+4. ctrl + mouse wheel                     (zoom in/out)
+
+5. drag python to tab to make a tab for terminal
+
+6. alt + arrow                            (To move lines)
+
+7. \t                                     (gives tab space in strings printing)
+
+8. To make "name object" in print use \"name object\"
+
+9. To use \ in terminal write \\ in code
+
+10. shift + right click                   (open direct more options)
+
+11. Use of f string :
+                     name = "mohit"
+                     print(f"hii {name}")
+
+12. chaining in string like
+    str = "my name is mohit kumar"
+    print(str.replace("mohit","Rohit").replace("kumar","singh"))
+
+13. list = ["mohit","kumar"]
+    print(list[0][1])                     (will give o)
+
+14. terminal run : write python (some starting digits until a unique) press tab to auto complete
+
+15. right click and find change all occurances
+
+16. use of end key
+
+17. select all and press tab to give indent to all lines
